@@ -43,13 +43,10 @@ public class ListaDeAmigos extends javax.swing.JInternalFrame {
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null},
-                {null, null, null, null},
-                {null, null, null, null},
-                {null, null, null, null}
+
             },
             new String [] {
-                "Nome", "ID", "Orien. Sexual", "Ident. Gênero "
+                "Nome", "ID", "Orien. Sexual", "Ident. Gênero"
             }
         ) {
             Class[] types = new Class [] {
@@ -84,16 +81,12 @@ public class ListaDeAmigos extends javax.swing.JInternalFrame {
     public void setVertice(Vertice v) {
         vertice = v;
         try {
-            int port = 7070;
-            TTransport transport = new TSocket("localhost", port);
-            transport.open();
-            TProtocol protocol = new TBinaryProtocol(transport);
-            Handler.Client client = new Handler.Client(protocol);
+            Handler.Client client = ClientTransport.getInstance().getCLient();
             try {
-   
             System.out.println("Procurar visinhos do " + vertice.nome);
-                amigos = client.listVizinhosDoVertice(vertice.nome);
+                 amigos = client.listVizinhosDoVertice(vertice.nome);
                 System.out.println("Procurar visinhos do cara aqui:" + amigos);
+                 showFriends();
             } catch (Exception x) {
              System.out.println("Deu ruim");
             }
@@ -109,34 +102,10 @@ public class ListaDeAmigos extends javax.swing.JInternalFrame {
             for (int i = 0; i < amigos.size(); i++) {
                 rowData[0] = amigos.get(i).desc;
                 rowData[1] = amigos.get(i).nome;
-                rowData[2] = getOrientSex(amigos.get(i).cor);// amigos.get(i).nome;
-                rowData[3] = getIdentGen((int) amigos.get(i).peso);//amigos.get(i).nome;
+                rowData[2] = ClientTransport.getInstance().getOrientSex(amigos.get(i).cor);// amigos.get(i).nome;
+                rowData[3] = ClientTransport.getInstance().getIdentGen((int) amigos.get(i).peso);//amigos.get(i).nome;
                 model.addRow(rowData);
             }
-        }
-    }
-
-    public String getOrientSex(int i) {
-        switch (i) {
-            case 0:
-                return "Hétero";
-            case 1:
-                return "Homo";
-            case 2:
-                return "Bi";
-            default:
-                return "Undefined";
-        }
-    }
-
-    public String getIdentGen(int i) {
-        switch (i) {
-            case 0:
-                return "Homem";
-            case 1:
-                return "Mulher";
-            default:
-                return "Outxs";
         }
     }
     private Vertice vertice;

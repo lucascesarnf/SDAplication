@@ -28,35 +28,71 @@ public class PaginaPrincipal extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        jMenuItem1 = new javax.swing.JMenuItem();
         jDesktopPane1 = new javax.swing.JDesktopPane();
-        MenuBar = new javax.swing.JMenuBar();
-        relacionamentosMenu = new javax.swing.JMenu();
-        conhecerMenu = new javax.swing.JMenu();
-        euMenu = new javax.swing.JMenu();
+        jMenuBar1 = new javax.swing.JMenuBar();
+        jMenu2 = new javax.swing.JMenu();
+        jMenuItem2 = new javax.swing.JMenuItem();
+        jMenuItem3 = new javax.swing.JMenuItem();
+        jMenu3 = new javax.swing.JMenu();
+        jMenuItem4 = new javax.swing.JMenuItem();
+        jMenu4 = new javax.swing.JMenu();
+        jMenuItem5 = new javax.swing.JMenuItem();
+
+        jMenuItem1.setText("jMenuItem1");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        MenuBar.setBackground(new java.awt.Color(51, 153, 255));
+        jMenu2.setText("Amigos");
 
-        relacionamentosMenu.setBackground(new java.awt.Color(51, 153, 255));
-        relacionamentosMenu.setIcon(new javax.swing.ImageIcon(getClass().getResource("/faicebroiskious/imagens/relationship.png"))); // NOI18N
-        relacionamentosMenu.setText("Meus Relacionamentos");
-        relacionamentosMenu.addActionListener(new java.awt.event.ActionListener() {
+        jMenuItem2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/faicebroiskious/imagens/relationship.png"))); // NOI18N
+        jMenuItem2.setText("Meu Amigos");
+        jMenuItem2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                relacionamentosMenuActionPerformed(evt);
+                jMenuItem2ActionPerformed(evt);
             }
         });
-        MenuBar.add(relacionamentosMenu);
+        jMenu2.add(jMenuItem2);
 
-        conhecerMenu.setIcon(new javax.swing.ImageIcon(getClass().getResource("/faicebroiskious/imagens/binoculars (1).png"))); // NOI18N
-        conhecerMenu.setText("Conhecer Pessoas");
-        MenuBar.add(conhecerMenu);
+        jMenuItem3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/faicebroiskious/imagens/binoculars (1).png"))); // NOI18N
+        jMenuItem3.setText("Procurar amigos");
+        jMenuItem3.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem3ActionPerformed(evt);
+            }
+        });
+        jMenu2.add(jMenuItem3);
 
-        euMenu.setIcon(new javax.swing.ImageIcon(getClass().getResource("/faicebroiskious/imagens/id.png"))); // NOI18N
-        euMenu.setText("Meus dados");
-        MenuBar.add(euMenu);
+        jMenuBar1.add(jMenu2);
 
-        setJMenuBar(MenuBar);
+        jMenu3.setText("Perfil");
+
+        jMenuItem4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/faicebroiskious/imagens/id.png"))); // NOI18N
+        jMenuItem4.setText("Meus dados");
+        jMenuItem4.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem4ActionPerformed(evt);
+            }
+        });
+        jMenu3.add(jMenuItem4);
+
+        jMenuBar1.add(jMenu3);
+
+        jMenu4.setText("Configurações");
+
+        jMenuItem5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/faicebroiskious/imagens/exit (1).png"))); // NOI18N
+        jMenuItem5.setText("Sair");
+        jMenuItem5.setToolTipText("");
+        jMenuItem5.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jMenuItem5ActionPerformed(evt);
+            }
+        });
+        jMenu4.add(jMenuItem5);
+
+        jMenuBar1.add(jMenu4);
+
+        setJMenuBar(jMenuBar1);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -72,10 +108,39 @@ public class PaginaPrincipal extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void relacionamentosMenuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_relacionamentosMenuActionPerformed
+    private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
         // TODO add your handling code here:
-        this.setListaDeAmigos();
-    }//GEN-LAST:event_relacionamentosMenuActionPerformed
+        jDesktopPane1.removeAll();
+        setListaDeAmigos();
+    }//GEN-LAST:event_jMenuItem2ActionPerformed
+
+    private void jMenuItem3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem3ActionPerformed
+        // TODO add your handling code here:
+        jDesktopPane1.removeAll();
+        System.out.println("Limpa e chama");
+        ProcurarAmigos l = new ProcurarAmigos();
+        l.setVertice(vertice);
+        jDesktopPane1.add(l);
+        l.setVisible(true);
+    }//GEN-LAST:event_jMenuItem3ActionPerformed
+
+    private void jMenuItem5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem5ActionPerformed
+        // TODO add your handling code here:
+        jDesktopPane1.removeAll();
+        System.out.println("Sair");
+        Login l = new Login();
+        l.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_jMenuItem5ActionPerformed
+
+    private void jMenuItem4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem4ActionPerformed
+        // TODO add your handling code here:
+        Perfil p = new Perfil();
+        jDesktopPane1.removeAll();
+        p.startView(vertice);
+        jDesktopPane1.add(p);
+        p.setVisible(true);
+    }//GEN-LAST:event_jMenuItem4ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -112,6 +177,7 @@ public class PaginaPrincipal extends javax.swing.JFrame {
         });
     }
     public void setListaDeAmigos(){
+        jDesktopPane1.removeAll();
         ListaDeAmigos l = new ListaDeAmigos();
         l.setVertice(vertice);
         jDesktopPane1.add(l);
@@ -127,11 +193,16 @@ public class PaginaPrincipal extends javax.swing.JFrame {
         this.vertice = vertice;
     }
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JMenuBar MenuBar;
-    private javax.swing.JMenu conhecerMenu;
-    private javax.swing.JMenu euMenu;
     private javax.swing.JDesktopPane jDesktopPane1;
-    private javax.swing.JMenu relacionamentosMenu;
+    private javax.swing.JMenu jMenu2;
+    private javax.swing.JMenu jMenu3;
+    private javax.swing.JMenu jMenu4;
+    private javax.swing.JMenuBar jMenuBar1;
+    private javax.swing.JMenuItem jMenuItem1;
+    private javax.swing.JMenuItem jMenuItem2;
+    private javax.swing.JMenuItem jMenuItem3;
+    private javax.swing.JMenuItem jMenuItem4;
+    private javax.swing.JMenuItem jMenuItem5;
     // End of variables declaration//GEN-END:variables
 
 }
