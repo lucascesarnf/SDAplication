@@ -1,0 +1,313 @@
+2017-12-19 22:26:53 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8081
+2017-12-19 22:26:53 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8083
+2017-12-19 22:26:53 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8081
+2017-12-19 22:26:53 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8083
+2017-12-19 22:26:53 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8081
+2017-12-19 22:26:53 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8083
+2017-12-19 22:26:53 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8081
+2017-12-19 22:26:53 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8083
+2017-12-19 22:26:53 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8081
+2017-12-19 22:26:53 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8083
+2017-12-19 22:26:53 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8081
+2017-12-19 22:26:53 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8083
+2017-12-19 22:26:53 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8081
+2017-12-19 22:26:53 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8083
+2017-12-19 22:26:53 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8081
+2017-12-19 22:26:53 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8083
+2017-12-19 22:26:54 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8081
+2017-12-19 22:26:54 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8083
+2017-12-19 22:26:54 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8081
+2017-12-19 22:26:54 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8083
+2017-12-19 22:26:54 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8081
+2017-12-19 22:26:54 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8083
+2017-12-19 22:26:54 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8081
+2017-12-19 22:26:54 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8083
+2017-12-19 22:26:54 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8081
+2017-12-19 22:26:54 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[0], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8083
+2017-12-19 22:26:54 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8081
+2017-12-19 22:26:54 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7100] from localhost/127.0.0.1:8083
+2017-12-19 22:26:54 DEBUG LeaderState:53 - localhost/127.0.0.1:8085 - Received KeepAliveRequest[session=13, commandSequence=0, eventIndex=13]
+2017-12-19 22:26:54 DEBUG LeaderState:847 - localhost/127.0.0.1:8085 - Appended KeepAliveEntry[index=7101, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729614822]
+2017-12-19 22:26:54 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[1], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8081
+2017-12-19 22:26:54 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7100, logTerm=6, entries=[1], commitIndex=7100, globalIndex=7100] to localhost/127.0.0.1:8083
+2017-12-19 22:26:54 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:54 DEBUG ServerStateMachine:319 - localhost/127.0.0.1:8085 - Applying KeepAliveEntry[index=7101, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729614822]
+2017-12-19 22:26:54 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:54 DEBUG LeaderState:61 - localhost/127.0.0.1:8085 - Sent KeepAliveResponse[status=OK, error=null, leader=localhost/127.0.0.1:8085, members=[localhost/127.0.0.1:8081, localhost/127.0.0.1:8083, localhost/127.0.0.1:8085]]
+2017-12-19 22:26:54 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7100] to localhost/127.0.0.1:8081
+2017-12-19 22:26:54 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7100] to localhost/127.0.0.1:8083
+2017-12-19 22:26:54 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:54 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:55 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:55 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:55 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:55 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:55 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:55 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:55 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:55 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:55 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:55 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:55 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:55 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:55 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:55 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:55 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:55 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:56 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:56 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:56 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:56 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:56 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:56 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:56 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:56 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:56 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:56 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:56 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:56 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:56 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:56 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:56 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:56 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:57 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:57 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[0], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:57 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8081
+2017-12-19 22:26:57 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7101] from localhost/127.0.0.1:8083
+2017-12-19 22:26:57 DEBUG LeaderState:53 - localhost/127.0.0.1:8085 - Received KeepAliveRequest[session=13, commandSequence=0, eventIndex=13]
+2017-12-19 22:26:57 DEBUG LeaderState:847 - localhost/127.0.0.1:8085 - Appended KeepAliveEntry[index=7102, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729617326]
+2017-12-19 22:26:57 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[1], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:57 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7101, logTerm=6, entries=[1], commitIndex=7101, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:57 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:57 DEBUG ServerStateMachine:319 - localhost/127.0.0.1:8085 - Applying KeepAliveEntry[index=7102, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729617326]
+2017-12-19 22:26:57 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:57 DEBUG LeaderState:61 - localhost/127.0.0.1:8085 - Sent KeepAliveResponse[status=OK, error=null, leader=localhost/127.0.0.1:8085, members=[localhost/127.0.0.1:8081, localhost/127.0.0.1:8083, localhost/127.0.0.1:8085]]
+2017-12-19 22:26:57 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7101] to localhost/127.0.0.1:8081
+2017-12-19 22:26:57 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7101] to localhost/127.0.0.1:8083
+2017-12-19 22:26:57 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:57 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:57 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:57 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:57 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:57 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:57 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:57 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:57 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:57 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:58 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:58 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:58 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:58 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:58 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:58 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:58 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:58 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:58 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:58 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:58 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:58 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:58 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:58 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:58 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:58 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:59 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:59 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:59 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:59 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:59 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:59 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:59 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:59 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:59 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:59 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[0], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:59 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8081
+2017-12-19 22:26:59 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7102] from localhost/127.0.0.1:8083
+2017-12-19 22:26:59 DEBUG LeaderState:53 - localhost/127.0.0.1:8085 - Received KeepAliveRequest[session=13, commandSequence=0, eventIndex=13]
+2017-12-19 22:26:59 DEBUG LeaderState:847 - localhost/127.0.0.1:8085 - Appended KeepAliveEntry[index=7103, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729619831]
+2017-12-19 22:26:59 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[1], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:59 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7102, logTerm=6, entries=[1], commitIndex=7102, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:59 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:26:59 DEBUG ServerStateMachine:319 - localhost/127.0.0.1:8085 - Applying KeepAliveEntry[index=7103, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729619831]
+2017-12-19 22:26:59 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:26:59 DEBUG LeaderState:61 - localhost/127.0.0.1:8085 - Sent KeepAliveResponse[status=OK, error=null, leader=localhost/127.0.0.1:8085, members=[localhost/127.0.0.1:8081, localhost/127.0.0.1:8083, localhost/127.0.0.1:8085]]
+2017-12-19 22:26:59 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7102] to localhost/127.0.0.1:8081
+2017-12-19 22:26:59 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7102] to localhost/127.0.0.1:8083
+2017-12-19 22:26:59 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:26:59 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:27:00 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:00 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:00 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:27:00 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:27:00 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:00 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:00 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:27:00 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:27:00 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:00 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:00 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:27:00 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:27:00 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:00 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:00 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:27:00 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:27:01 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:01 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:01 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:27:01 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:27:01 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:01 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:01 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:27:01 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:27:01 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:01 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:01 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:27:01 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:27:01 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:01 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:01 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:27:01 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[0], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:02 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8083
+2017-12-19 22:27:02 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7103] from localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderState:53 - localhost/127.0.0.1:8085 - Received KeepAliveRequest[session=13, commandSequence=0, eventIndex=13]
+2017-12-19 22:27:02 DEBUG LeaderState:847 - localhost/127.0.0.1:8085 - Appended KeepAliveEntry[index=7104, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729622341]
+2017-12-19 22:27:02 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[1], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7103, logTerm=6, entries=[1], commitIndex=7103, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:02 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:02 DEBUG ServerStateMachine:319 - localhost/127.0.0.1:8085 - Applying KeepAliveEntry[index=7104, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729622341]
+2017-12-19 22:27:02 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderState:61 - localhost/127.0.0.1:8085 - Sent KeepAliveResponse[status=OK, error=null, leader=localhost/127.0.0.1:8085, members=[localhost/127.0.0.1:8081, localhost/127.0.0.1:8083, localhost/127.0.0.1:8085]]
+2017-12-19 22:27:02 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7103] to localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7103] to localhost/127.0.0.1:8083
+2017-12-19 22:27:02 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:02 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:02 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:02 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:02 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:02 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:03 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:03 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:03 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:03 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:03 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:03 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:03 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:03 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:03 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:03 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:03 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:03 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:03 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:03 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:03 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:03 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:04 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:04 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:04 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:04 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:04 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:04 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:04 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:04 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:04 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:04 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[0], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:04 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8081
+2017-12-19 22:27:04 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7104] from localhost/127.0.0.1:8083
+2017-12-19 22:27:04 DEBUG LeaderState:53 - localhost/127.0.0.1:8085 - Received KeepAliveRequest[session=13, commandSequence=0, eventIndex=13]
+2017-12-19 22:27:04 DEBUG LeaderState:847 - localhost/127.0.0.1:8085 - Appended KeepAliveEntry[index=7105, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729624849]
+2017-12-19 22:27:04 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[1], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:04 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7104, logTerm=6, entries=[1], commitIndex=7104, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:04 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8081
+2017-12-19 22:27:04 DEBUG ServerStateMachine:319 - localhost/127.0.0.1:8085 - Applying KeepAliveEntry[index=7105, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729624849]
+2017-12-19 22:27:04 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8083
+2017-12-19 22:27:04 DEBUG LeaderState:61 - localhost/127.0.0.1:8085 - Sent KeepAliveResponse[status=OK, error=null, leader=localhost/127.0.0.1:8085, members=[localhost/127.0.0.1:8081, localhost/127.0.0.1:8083, localhost/127.0.0.1:8085]]
+2017-12-19 22:27:04 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7104] to localhost/127.0.0.1:8081
+2017-12-19 22:27:04 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7104] to localhost/127.0.0.1:8083
+2017-12-19 22:27:04 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8081
+2017-12-19 22:27:04 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8083
+2017-12-19 22:27:05 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:05 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:05 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8081
+2017-12-19 22:27:05 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8083
+2017-12-19 22:27:05 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:05 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:05 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8081
+2017-12-19 22:27:05 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8083
+2017-12-19 22:27:05 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:05 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:05 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8081
+2017-12-19 22:27:05 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8083
+2017-12-19 22:27:05 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:05 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:05 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8081
+2017-12-19 22:27:05 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8083
+2017-12-19 22:27:06 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:06 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:06 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8083
+2017-12-19 22:27:06 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:06 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:06 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8083
+2017-12-19 22:27:06 WARN  LeaderAppender:315 - localhost/127.0.0.1:8085 - AppendRequest to localhost/127.0.0.1:8081 failed. Reason: Connection reset by peer
+2017-12-19 22:27:06 WARN  LeaderAppender:315 - localhost/127.0.0.1:8085 - AppendRequest to localhost/127.0.0.1:8081 failed. Reason: Connection reset by peer
+2017-12-19 22:27:06 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:06 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8081
+2017-12-19 22:27:06 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:06 WARN  LeaderAppender:315 - localhost/127.0.0.1:8085 - AppendRequest to localhost/127.0.0.1:8081 failed. Reason: java.net.ConnectException: Connection refused: localhost/127.0.0.1:8081
+2017-12-19 22:27:06 DEBUG LeaderState:224 - localhost/127.0.0.1:8085 - Appended ConfigurationEntry[index=7106, term=6, timestamp=1513729626667, members=[ServerMember[type=ACTIVE, status=UNAVAILABLE, serverAddress=localhost/127.0.0.1:8081, clientAddress=localhost/127.0.0.1:8081], ServerMember[type=ACTIVE, status=AVAILABLE, serverAddress=localhost/127.0.0.1:8083, clientAddress=localhost/127.0.0.1:8083], ServerMember[type=ACTIVE, status=AVAILABLE, serverAddress=localhost/127.0.0.1:8085, clientAddress=localhost/127.0.0.1:8085]]] to log at index 7106
+2017-12-19 22:27:06 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:06 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8081
+2017-12-19 22:27:06 DEBUG LeaderAppender:404 - localhost/127.0.0.1:8085 - Sent ConfigureRequest[term=6, leader=2130715369, index=7106, timestamp=1513729626667, members=[ServerMember[type=ACTIVE, status=UNAVAILABLE, serverAddress=localhost/127.0.0.1:8081, clientAddress=localhost/127.0.0.1:8081], ServerMember[type=ACTIVE, status=AVAILABLE, serverAddress=localhost/127.0.0.1:8083, clientAddress=localhost/127.0.0.1:8083], ServerMember[type=ACTIVE, status=AVAILABLE, serverAddress=localhost/127.0.0.1:8085, clientAddress=localhost/127.0.0.1:8085]]] to localhost/127.0.0.1:8083
+2017-12-19 22:27:06 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7105] from localhost/127.0.0.1:8083
+2017-12-19 22:27:06 DEBUG LeaderAppender:413 - localhost/127.0.0.1:8085 - Received ConfigureResponse[status=OK] from localhost/127.0.0.1:8083
+2017-12-19 22:27:06 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[1], commitIndex=7105, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:06 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7106] from localhost/127.0.0.1:8083
+2017-12-19 22:27:06 DEBUG MetaStore:117 - Store configuration Configuration[index=7106, time=1513729626667, members=[ServerMember[type=ACTIVE, status=UNAVAILABLE, serverAddress=localhost/127.0.0.1:8081, clientAddress=localhost/127.0.0.1:8081], ServerMember[type=ACTIVE, status=AVAILABLE, serverAddress=localhost/127.0.0.1:8083, clientAddress=localhost/127.0.0.1:8083], ServerMember[type=ACTIVE, status=AVAILABLE, serverAddress=localhost/127.0.0.1:8085, clientAddress=localhost/127.0.0.1:8085]]]
+2017-12-19 22:27:06 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7106, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:06 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8081
+2017-12-19 22:27:06 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7106, logTerm=6, entries=[0], commitIndex=7106, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:06 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7106] from localhost/127.0.0.1:8083
+2017-12-19 22:27:07 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7106, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:07 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8081
+2017-12-19 22:27:07 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7106, logTerm=6, entries=[0], commitIndex=7106, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:07 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7106] from localhost/127.0.0.1:8083
+2017-12-19 22:27:07 DEBUG LeaderState:53 - localhost/127.0.0.1:8085 - Received KeepAliveRequest[session=13, commandSequence=0, eventIndex=13]
+2017-12-19 22:27:07 DEBUG LeaderState:847 - localhost/127.0.0.1:8085 - Appended KeepAliveEntry[index=7107, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729627357]
+2017-12-19 22:27:07 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7105, logTerm=6, entries=[0], commitIndex=7106, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:07 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8081
+2017-12-19 22:27:07 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7106, logTerm=6, entries=[1], commitIndex=7106, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:07 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7107] from localhost/127.0.0.1:8083
+2017-12-19 22:27:07 DEBUG ServerStateMachine:319 - localhost/127.0.0.1:8085 - Applying ConfigurationEntry[index=7106, term=6, timestamp=1513729626667, members=[ServerMember[type=ACTIVE, status=UNAVAILABLE, serverAddress=localhost/127.0.0.1:8081, clientAddress=localhost/127.0.0.1:8081], ServerMember[type=ACTIVE, status=AVAILABLE, serverAddress=localhost/127.0.0.1:8083, clientAddress=localhost/127.0.0.1:8083], ServerMember[type=ACTIVE, status=AVAILABLE, serverAddress=localhost/127.0.0.1:8085, clientAddress=localhost/127.0.0.1:8085]]]
+2017-12-19 22:27:07 DEBUG ServerStateMachine:319 - localhost/127.0.0.1:8085 - Applying KeepAliveEntry[index=7107, term=6, session=13, commandSequence=0, eventIndex=13, timestamp=1513729627357]
+2017-12-19 22:27:07 DEBUG LeaderState:61 - localhost/127.0.0.1:8085 - Sent KeepAliveResponse[status=OK, error=null, leader=localhost/127.0.0.1:8085, members=[localhost/127.0.0.1:8081, localhost/127.0.0.1:8083, localhost/127.0.0.1:8085]]
+2017-12-19 22:27:07 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=24, logTerm=1, entries=[0], commitIndex=7107, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:07 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8081
+2017-12-19 22:27:07 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7107, logTerm=6, entries=[0], commitIndex=7107, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:07 DEBUG LeaderAppender:207 - localhost/127.0.0.1:8085 - Received AppendResponse[status=OK, term=6, succeeded=true, logIndex=7107] from localhost/127.0.0.1:8083
+2017-12-19 22:27:08 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=24, logTerm=1, entries=[0], commitIndex=7107, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:08 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8081
+2017-12-19 22:27:08 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7107, logTerm=6, entries=[0], commitIndex=7107, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:09 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=24, logTerm=1, entries=[0], commitIndex=7107, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:09 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8081
+2017-12-19 22:27:09 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7107, logTerm=6, entries=[0], commitIndex=7107, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:09 WARN  LeaderAppender:315 - localhost/127.0.0.1:8085 - AppendRequest to localhost/127.0.0.1:8083 failed. Reason: Connection reset by peer
+2017-12-19 22:27:09 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=24, logTerm=1, entries=[0], commitIndex=7107, globalIndex=7105] to localhost/127.0.0.1:8081
+2017-12-19 22:27:09 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8081
+2017-12-19 22:27:09 DEBUG LeaderAppender:172 - localhost/127.0.0.1:8085 - Sent AppendRequest[term=6, leader=2130715369, logIndex=7107, logTerm=6, entries=[0], commitIndex=7107, globalIndex=7105] to localhost/127.0.0.1:8083
+2017-12-19 22:27:09 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8083
+2017-12-19 22:27:09 WARN  LeaderAppender:315 - localhost/127.0.0.1:8085 - AppendRequest to localhost/127.0.0.1:8083 failed. Reason: null
+2017-12-19 22:27:09 WARN  LeaderAppender:456 - localhost/127.0.0.1:8085 - Suspected network partition. Stepping down
+2017-12-19 22:27:09 DEBUG MetaStore:96 - Store vote 0
+2017-12-19 22:27:09 INFO  ServerContext:596 - localhost/127.0.0.1:8085 - Transitioning to FOLLOWER
+2017-12-19 22:27:09 DEBUG LeaderState:964 - localhost/127.0.0.1:8085 - Cancelling append timer
+2017-12-19 22:27:09 DEBUG FollowerState:61 - localhost/127.0.0.1:8085 - Starting heartbeat timer
+2017-12-19 22:27:10 DEBUG FollowerState:85 - localhost/127.0.0.1:8085 - Heartbeat timed out in PT1.04S
+2017-12-19 22:27:10 INFO  FollowerState:134 - localhost/127.0.0.1:8085 - Polling members [ServerMember[type=ACTIVE, status=UNAVAILABLE, serverAddress=localhost/127.0.0.1:8081, clientAddress=localhost/127.0.0.1:8081], ServerMember[type=ACTIVE, status=AVAILABLE, serverAddress=localhost/127.0.0.1:8083, clientAddress=localhost/127.0.0.1:8083]]
+2017-12-19 22:27:10 DEBUG FollowerState:139 - localhost/127.0.0.1:8085 - Polling ServerMember[type=ACTIVE, status=UNAVAILABLE, serverAddress=localhost/127.0.0.1:8081, clientAddress=localhost/127.0.0.1:8081] for next term 7
+2017-12-19 22:27:10 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8081
+2017-12-19 22:27:10 DEBUG FollowerState:139 - localhost/127.0.0.1:8085 - Polling ServerMember[type=ACTIVE, status=AVAILABLE, serverAddress=localhost/127.0.0.1:8083, clientAddress=localhost/127.0.0.1:8083] for next term 7
+2017-12-19 22:27:10 INFO  NettyClient:66 - Connecting to localhost/127.0.0.1:8083

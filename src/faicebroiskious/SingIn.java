@@ -5,13 +5,13 @@
  */
 package faicebroiskious;
 
-import resources.Grafo.Vertice;
+import resources.Grafo.*;
 import javax.swing.JOptionPane;
+import org.apache.thrift.TException;
 import org.apache.thrift.protocol.TBinaryProtocol;
 import org.apache.thrift.protocol.TProtocol;
 import org.apache.thrift.transport.TSocket;
 import org.apache.thrift.transport.*;
-import resources.Grafo.Handler;
 
 /**
  *
@@ -184,11 +184,31 @@ public class SingIn extends javax.swing.JFrame {
         PaginaPrincipal home = new PaginaPrincipal();
         Vertice v = new Vertice();
         v.desc = nameLabel.getText();
+       // System.out.println("Descricao:" + v.desc);
         v.nome = Integer.parseInt(idLabel.getText());
+        // System.out.println("nome:" + v.nome);
         v.peso = identidadeLabel.getSelectedIndex();
-        v.cor =  OrientacaoLabel.getSelectedIndex();
+        // System.out.println("peso:" + v.peso);
+        v.cor =  OrientacaoLabel.getSelectedIndex(); 
+        // System.out.println("cor:" + v.cor);
+        try {
+            int port = 7070;
+             TTransport transport = new TSocket("localhost", port);
+                transport.open();
+                TProtocol protocol = new  TBinaryProtocol(transport);
+                Handler.Client client = new Handler.Client(protocol);
+                if(client.createVertice(v)){
+                   System.out.println("Criado com sucesso");
+                }else{
+                   System.out.println("Não criou"); 
+                }
+        home.setVertice(v);
         home.setVisible(true);
+        home.setListaDeAmigos();
         this.dispose();
+        } catch (TException ex) {
+            ex.printStackTrace();
+        }
     }//GEN-LAST:event_cadastrarButtonActionPerformed
 
     /**
@@ -200,11 +220,6 @@ public class SingIn extends javax.swing.JFrame {
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
          * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
          */
-        
-        TTransport transport = new TSocket("localhost", 7070);
-                transport.open();
-                TProtocol protocol = new  TBinaryProtocol(transport);
-                Handler.Client clientConection = new Handler.Client(protocol);
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
                 if ("Nimbus".equals(info.getName())) {

@@ -5,6 +5,8 @@
  */
 package faicebroiskious;
 
+import resources.Grafo.*;
+
 /**
  *
  * @author lucascesarnf
@@ -17,7 +19,6 @@ public class PaginaPrincipal extends javax.swing.JFrame {
     public PaginaPrincipal() {
         initComponents();
     }
-
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -40,6 +41,11 @@ public class PaginaPrincipal extends javax.swing.JFrame {
         relacionamentosMenu.setBackground(new java.awt.Color(51, 153, 255));
         relacionamentosMenu.setIcon(new javax.swing.ImageIcon(getClass().getResource("/faicebroiskious/imagens/relationship.png"))); // NOI18N
         relacionamentosMenu.setText("Meus Relacionamentos");
+        relacionamentosMenu.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                relacionamentosMenuActionPerformed(evt);
+            }
+        });
         MenuBar.add(relacionamentosMenu);
 
         conhecerMenu.setIcon(new javax.swing.ImageIcon(getClass().getResource("/faicebroiskious/imagens/binoculars (1).png"))); // NOI18N
@@ -65,6 +71,11 @@ public class PaginaPrincipal extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+
+    private void relacionamentosMenuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_relacionamentosMenuActionPerformed
+        // TODO add your handling code here:
+        this.setListaDeAmigos();
+    }//GEN-LAST:event_relacionamentosMenuActionPerformed
 
     /**
      * @param args the command line arguments
@@ -100,7 +111,21 @@ public class PaginaPrincipal extends javax.swing.JFrame {
             }
         });
     }
+    public void setListaDeAmigos(){
+        ListaDeAmigos l = new ListaDeAmigos();
+        l.setVertice(vertice);
+        jDesktopPane1.add(l);
+        l.setVisible(true);
+    }
+    private Vertice vertice;
 
+    public Vertice getVertice() {
+        return vertice;
+    }
+
+    public void setVertice(Vertice vertice) {
+        this.vertice = vertice;
+    }
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JMenuBar MenuBar;
     private javax.swing.JMenu conhecerMenu;
@@ -108,4 +133,5 @@ public class PaginaPrincipal extends javax.swing.JFrame {
     private javax.swing.JDesktopPane jDesktopPane1;
     private javax.swing.JMenu relacionamentosMenu;
     // End of variables declaration//GEN-END:variables
+
 }
